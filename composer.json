@@ -20,7 +20,7 @@
 
     "require" : {
         "php"                : ">=5.3.3",
-        "illuminate/support" : "~4.0",
+        "illuminate/support" : "~5.0",
         "league/geotools"    : "~0.4"
     },
 
